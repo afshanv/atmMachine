@@ -1,0 +1,22 @@
+{
+  "name": "atmmachine",
+  "version": "1.0.0",
+  "description": "this is atmMachine",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "atmmachine": "next.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fiza",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  }
+}
